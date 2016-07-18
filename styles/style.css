@@ -166,7 +166,7 @@ a, a:visited, a:hover, a:focus, .btn:focus {
 
 /*Battery*/
 .loder-box {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: rgba(0, 0, 0, 0.00);
   border-radius: 1px;
   height: 100px;
   left: 50%;
